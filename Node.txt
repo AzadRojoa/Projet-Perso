@@ -1,0 +1,25 @@
+R M AF
+R H C
+M H R
+M AF AB
+C AF AB
+AB R C
+AB H M
+AF H AB
+AF C M
+H M AB
+stop
+
+R M AF
+M H R
+C AF AB
+AB R C
+
+Valide:
+
+B FA FB
+FB FH S
+S B M
+FH B M
+FH FA M
+stop
